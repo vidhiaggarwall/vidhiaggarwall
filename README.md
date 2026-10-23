@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vidhi Aggarwal</h1>
+<h3 align="center">A 20 year old programmer navigating through messy life and code</h3>
 
-<!--
-**vidhiaggarwall/vidhiaggarwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Examora<br>🌱 I’m currently learning Java<br>⚡ Fun fact: The Firefox logo isn’t a fox.
+  
+## Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,java" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
